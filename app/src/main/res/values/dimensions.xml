@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="screen_layout_padding">5dp</dimen>
+    <dimen name="default_button_text_size">22sp</dimen>
+    <dimen name="default_item_margin">16dp</dimen>
+    <dimen name="default_sub_heading_text_size">18sp</dimen>
+    <dimen name="custom_dialog_title_text_size">24sp</dimen>
+    <dimen name="default_BMI_text_view_margin">12dp</dimen>
+    <dimen name="end_title_text_size">36sp</dimen>
+    <dimen name="default_end_sub_heading_text_size">20sp</dimen>
+
+</resources>
